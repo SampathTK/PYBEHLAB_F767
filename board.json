@@ -1,0 +1,13 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [],
+    "mcu": "stm32f7",
+    "product": "pyBehLab F767",
+    "thumbnail": "",
+    "url": "",
+    "vendor": "pyBehLab"
+}
